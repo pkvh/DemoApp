@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="baseTextView">
+        <attr name="font_name" format="enum">
+            <enum name="LatoRegular" value="0"/>
+            <enum name="LatoLight" value="1"/>
+            <enum name="LatoLightItalic" value="2"/>
+            <enum name="LatoHairLine" value="3"/>
+            <enum name="RobotoRegular" value="4"/>
+            <enum name="RobotoLight" value="5"/>
+            <enum name="RobotoMedium" value="6"/>
+            <enum name="RobotoBold" value="7"/>
+            <enum name="RobotoBoldCondensed" value="8"/>
+            <enum name="SF_Regular" value="9"/>
+
+
+        </attr>
+    </declare-styleable>
+</resources>
